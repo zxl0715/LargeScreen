@@ -47,3 +47,6 @@ fullScreen=True
 width=1366
 #屏幕高度1080
 height=768
+
+六、启用Flash功能播放功能 ，在应用后面添加参数  “--enable-system-flash”
+例如：cefapp.exe --enable-system-flash
